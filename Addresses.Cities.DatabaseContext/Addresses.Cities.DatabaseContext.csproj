@@ -15,12 +15,12 @@
     <PackageLicenseUrl>https://github.com/cdorst/Addresses.Cities.DatabaseContext/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/cdorst/Addresses.Cities.DatabaseContext</PackageProjectUrl>
     <RepositoryUrl>https://github.com/cdorst/Addresses.Cities.DatabaseContext</RepositoryUrl>
-    <Version>1.0.4</Version>
+    <Version>1.0.5</Version>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CDorst.Addresses.Cities" Version="1.0.4" />
-    <PackageReference Include="CDorst.Addresses.StreetAddresses.DatabaseContext" Version="1.0.4" />
+    <PackageReference Include="CDorst.Addresses.Cities" Version="1.0.5" />
+    <PackageReference Include="CDorst.Addresses.StreetAddresses.DatabaseContext" Version="1.0.5" />
   </ItemGroup>
 
 </Project>
